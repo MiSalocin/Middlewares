@@ -1,5 +1,5 @@
-## Working with middlewares
-# The second challange from the rocketseat's classes
+# Working with middlewares
+## The second challange from the rocketseat's classes
 **REQUIREMENTS**
 - [X] Should be able to find user by username in header and pass it to request.user
 - [X] Should be able to let user create a new todo when is in free plan and have less than ten todos
@@ -15,6 +15,3 @@
 - [X] Should not be able to put user and todo in request when todo id is not uuid
 - [X] Should not be able to put user and todo in request when todo does not exists
 - [X] Should not be able to pass user to request.user when it does not exists
-
-### Testes dos middlewares
-
