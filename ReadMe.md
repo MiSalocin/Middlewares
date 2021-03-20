@@ -15,6 +15,3 @@
 - [X] Should not be able to put user and todo in request when todo id is not uuid
 - [X] Should not be able to put user and todo in request when todo does not exists
 - [X] Should not be able to pass user to request.user when it does not exists
-
-### Testes dos middlewares
-
