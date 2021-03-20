@@ -1,5 +1,5 @@
-## Working with middlewares
-# The second challange from the rocketseat's classes
+# Working with middlewares
+## The second challange from the rocketseat's classes
 **REQUIREMENTS**
 - [X] Should be able to find user by username in header and pass it to request.user
 - [X] Should be able to let user create a new todo when is in free plan and have less than ten todos
